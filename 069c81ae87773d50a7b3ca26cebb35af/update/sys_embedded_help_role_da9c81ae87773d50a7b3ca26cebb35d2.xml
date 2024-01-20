@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_snc_crm_for_re_0.admin" name="x_snc_crm_for_re_0.admin">529c81ae87773d50a7b3ca26cebb35b8</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-20 18:11:28</sys_created_on>
+        <sys_id>da9c81ae87773d50a7b3ca26cebb35d2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>529c81ae87773d50a7b3ca26cebb35b8</sys_name>
+        <sys_package display_value="CRM for Real Estate" source="x_snc_crm_for_re_0">069c81ae87773d50a7b3ca26cebb35af</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CRM for Real Estate">069c81ae87773d50a7b3ca26cebb35af</sys_scope>
+        <sys_update_name>sys_embedded_help_role_da9c81ae87773d50a7b3ca26cebb35d2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-20 18:11:28</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
