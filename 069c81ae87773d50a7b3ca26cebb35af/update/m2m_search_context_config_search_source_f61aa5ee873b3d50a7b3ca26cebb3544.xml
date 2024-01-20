@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_search_context_config_search_source">
+    <m2m_search_context_config_search_source action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <search_context_config display_value="CRM for Real Estate - Workspace Search">630ae1ee0d3b3d50f78dc85a1072238b</search_context_config>
+        <source display_value="CRM for Real Estate - x_snc_crm_for_re_0_contacts">b61aa5ee873b3d50a7b3ca26cebb3541</source>
+        <sys_class_name>m2m_search_context_config_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-20 20:20:23</sys_created_on>
+        <sys_id>f61aa5ee873b3d50a7b3ca26cebb3544</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="CRM for Real Estate" source="x_snc_crm_for_re_0">069c81ae87773d50a7b3ca26cebb35af</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CRM for Real Estate">069c81ae87773d50a7b3ca26cebb35af</sys_scope>
+        <sys_update_name>m2m_search_context_config_search_source_f61aa5ee873b3d50a7b3ca26cebb3544</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-20 20:20:23</sys_updated_on>
+    </m2m_search_context_config_search_source>
+</record_update>

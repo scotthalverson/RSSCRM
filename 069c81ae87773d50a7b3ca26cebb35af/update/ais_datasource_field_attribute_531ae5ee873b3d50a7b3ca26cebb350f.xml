@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_datasource_field_attribute">
+    <ais_datasource_field_attribute action="INSERT_OR_UPDATE">
+        <attribute display_value="map_to">f734a634c7320010d1cfd9795cc26094</attribute>
+        <datasource display_value="Task Table">131aa5ee873b3d50a7b3ca26cebb35f4</datasource>
+        <field>number</field>
+        <source>x_snc_crm_for_re_0_task</source>
+        <sys_class_name>ais_datasource_field_attribute</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-20 20:20:25</sys_created_on>
+        <sys_id>531ae5ee873b3d50a7b3ca26cebb350f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_crm_for_re_0_task.number</sys_name>
+        <sys_package display_value="CRM for Real Estate" source="x_snc_crm_for_re_0">069c81ae87773d50a7b3ca26cebb35af</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CRM for Real Estate">069c81ae87773d50a7b3ca26cebb35af</sys_scope>
+        <sys_update_name>ais_datasource_field_attribute_531ae5ee873b3d50a7b3ca26cebb350f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-20 20:20:25</sys_updated_on>
+        <value>title</value>
+    </ais_datasource_field_attribute>
+</record_update>

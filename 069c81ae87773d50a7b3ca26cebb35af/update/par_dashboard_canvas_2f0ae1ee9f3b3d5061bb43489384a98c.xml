@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_canvas">
+    <par_dashboard_canvas action="INSERT_OR_UPDATE">
+        <dashboard display_value="CRM for Real Estate">a30ae1ee353b3d50eb544c3ba80c1b8d</dashboard>
+        <dashboard_tab/>
+        <layout>[]</layout>
+        <sys_class_name>par_dashboard_canvas</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-20 20:20:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>2f0ae1ee9f3b3d5061bb43489384a98c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="CRM for Real Estate" source="x_snc_crm_for_re_0">069c81ae87773d50a7b3ca26cebb35af</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CRM for Real Estate">069c81ae87773d50a7b3ca26cebb35af</sys_scope>
+        <sys_update_name>par_dashboard_canvas_2f0ae1ee9f3b3d5061bb43489384a98c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-20 20:20:12</sys_updated_on>
+    </par_dashboard_canvas>
+</record_update>

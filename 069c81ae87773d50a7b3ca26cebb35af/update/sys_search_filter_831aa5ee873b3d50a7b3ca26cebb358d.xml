@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_search_source display_value="Contacts">031aa5ee873b3d50a7b3ca26cebb3559</ais_search_source>
+        <label>Contacts</label>
+        <name>Contacts</name>
+        <order>100</order>
+        <search_context_config display_value="CRM for Real Estate AI Search Configuration">ab0ae1ee873b3d50d5217dbd3499048b</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-20 20:20:24</sys_created_on>
+        <sys_id>831aa5ee873b3d50a7b3ca26cebb358d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Contacts</sys_name>
+        <sys_package display_value="CRM for Real Estate" source="x_snc_crm_for_re_0">069c81ae87773d50a7b3ca26cebb35af</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CRM for Real Estate">069c81ae87773d50a7b3ca26cebb35af</sys_scope>
+        <sys_update_name>sys_search_filter_831aa5ee873b3d50a7b3ca26cebb358d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-20 20:20:24</sys_updated_on>
+    </sys_search_filter>
+</record_update>

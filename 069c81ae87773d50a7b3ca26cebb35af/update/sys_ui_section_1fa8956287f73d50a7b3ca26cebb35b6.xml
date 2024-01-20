@@ -4,13 +4,13 @@
             <element>name</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-01-20 19:34:16</sys_created_on>
-            <sys_id>938f516e87f73d50a7b3ca26cebb35fc</sys_id>
+            <sys_created_on>2024-01-20 20:59:08</sys_created_on>
+            <sys_id>d6f23d6e877b3d50a7b3ca26cebb3549</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_crm_for_re_0_property" sys_domain="global" view="Default view">1fa8956287f73d50a7b3ca26cebb35b6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-01-20 19:34:16</sys_updated_on>
+            <sys_updated_on>2024-01-20 20:59:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>address</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-01-20 19:34:16</sys_created_on>
-            <sys_id>978f516e87f73d50a7b3ca26cebb35fc</sys_id>
+            <sys_created_on>2024-01-20 20:59:08</sys_created_on>
+            <sys_id>def23d6e877b3d50a7b3ca26cebb3549</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_crm_for_re_0_property" sys_domain="global" view="Default view">1fa8956287f73d50a7b3ca26cebb35b6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-01-20 19:34:16</sys_updated_on>
+            <sys_updated_on>2024-01-20 20:59:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>city</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-01-20 19:34:16</sys_created_on>
-            <sys_id>9b8f516e87f73d50a7b3ca26cebb35fc</sys_id>
+            <sys_created_on>2024-01-20 20:59:08</sys_created_on>
+            <sys_id>d2f23d6e877b3d50a7b3ca26cebb354a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_crm_for_re_0_property" sys_domain="global" view="Default view">1fa8956287f73d50a7b3ca26cebb35b6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-01-20 19:34:16</sys_updated_on>
+            <sys_updated_on>2024-01-20 20:59:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>state</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-01-20 19:34:16</sys_created_on>
-            <sys_id>9f8f516e87f73d50a7b3ca26cebb35fc</sys_id>
+            <sys_created_on>2024-01-20 20:59:08</sys_created_on>
+            <sys_id>d6f23d6e877b3d50a7b3ca26cebb354a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_crm_for_re_0_property" sys_domain="global" view="Default view">1fa8956287f73d50a7b3ca26cebb35b6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-01-20 19:34:16</sys_updated_on>
+            <sys_updated_on>2024-01-20 20:59:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>zip_code</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-01-20 19:34:16</sys_created_on>
-            <sys_id>938f516e87f73d50a7b3ca26cebb35fd</sys_id>
+            <sys_created_on>2024-01-20 20:59:08</sys_created_on>
+            <sys_id>daf23d6e877b3d50a7b3ca26cebb354a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_crm_for_re_0_property" sys_domain="global" view="Default view">1fa8956287f73d50a7b3ca26cebb35b6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-01-20 19:34:16</sys_updated_on>
+            <sys_updated_on>2024-01-20 20:59:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -74,13 +74,13 @@
             <element>county</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-01-20 19:34:16</sys_created_on>
-            <sys_id>978f516e87f73d50a7b3ca26cebb35fd</sys_id>
+            <sys_created_on>2024-01-20 20:59:08</sys_created_on>
+            <sys_id>def23d6e877b3d50a7b3ca26cebb354a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_crm_for_re_0_property" sys_domain="global" view="Default view">1fa8956287f73d50a7b3ca26cebb35b6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-01-20 19:34:16</sys_updated_on>
+            <sys_updated_on>2024-01-20 20:59:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -88,69 +88,83 @@
             <element>.split</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-01-20 19:34:16</sys_created_on>
-            <sys_id>9b8f516e87f73d50a7b3ca26cebb35fd</sys_id>
+            <sys_created_on>2024-01-20 20:59:08</sys_created_on>
+            <sys_id>d2f23d6e877b3d50a7b3ca26cebb354b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_crm_for_re_0_property" sys_domain="global" view="Default view">1fa8956287f73d50a7b3ca26cebb35b6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-01-20 19:34:16</sys_updated_on>
+            <sys_updated_on>2024-01-20 20:59:08</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>listing_type</element>
+            <element>status</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-01-20 19:34:16</sys_created_on>
-            <sys_id>9f8f516e87f73d50a7b3ca26cebb35fd</sys_id>
+            <sys_created_on>2024-01-20 20:59:08</sys_created_on>
+            <sys_id>d6f23d6e877b3d50a7b3ca26cebb354b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_crm_for_re_0_property" sys_domain="global" view="Default view">1fa8956287f73d50a7b3ca26cebb35b6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-01-20 19:34:16</sys_updated_on>
+            <sys_updated_on>2024-01-20 20:59:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>listing_type</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-20 20:59:08</sys_created_on>
+            <sys_id>daf23d6e877b3d50a7b3ca26cebb354b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_crm_for_re_0_property" sys_domain="global" view="Default view">1fa8956287f73d50a7b3ca26cebb35b6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-20 20:59:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>mls_id</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-20 20:59:08</sys_created_on>
+            <sys_id>def23d6e877b3d50a7b3ca26cebb354b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_crm_for_re_0_property" sys_domain="global" view="Default view">1fa8956287f73d50a7b3ca26cebb35b6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-20 20:59:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>property_tax_id</element>
-            <position>8</position>
+            <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-01-20 19:34:16</sys_created_on>
-            <sys_id>938f516e87f73d50a7b3ca26cebb35fe</sys_id>
+            <sys_created_on>2024-01-20 20:59:08</sys_created_on>
+            <sys_id>d2f23d6e877b3d50a7b3ca26cebb354c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_crm_for_re_0_property" sys_domain="global" view="Default view">1fa8956287f73d50a7b3ca26cebb35b6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-01-20 19:34:16</sys_updated_on>
+            <sys_updated_on>2024-01-20 20:59:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>comments</element>
-            <position>9</position>
+            <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-01-20 19:34:16</sys_created_on>
-            <sys_id>978f516e87f73d50a7b3ca26cebb35fe</sys_id>
+            <sys_created_on>2024-01-20 20:59:08</sys_created_on>
+            <sys_id>d6f23d6e877b3d50a7b3ca26cebb354c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_crm_for_re_0_property" sys_domain="global" view="Default view">1fa8956287f73d50a7b3ca26cebb35b6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-01-20 19:34:16</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>contact</element>
-            <position>10</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-01-20 20:02:25</sys_created_on>
-            <sys_id>23f5e9e6873b3d50a7b3ca26cebb3572</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_snc_crm_for_re_0_property" sys_domain="global" view="Default view">1fa8956287f73d50a7b3ca26cebb35b6</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-01-20 20:02:25</sys_updated_on>
+            <sys_updated_on>2024-01-20 20:59:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_snc_crm_for_re_0_property" version="2" view="workspace-crm-for-real-estate-0">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>address</element>
+            <list_id display_value="x_snc_crm_for_re_0_property" element="NULL" name="x_snc_crm_for_re_0_property" parent="NULL" relationship="NULL" sys_domain="global" view="2b0ae1eea23b3d50adb25ad74c1adc8a">182ae5ee873b3d50a7b3ca26cebb35b6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-20 20:20:29</sys_created_on>
+            <sys_id>502ae5ee873b3d50a7b3ca26cebb35b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-20 20:20:29</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>city</element>
+            <list_id display_value="x_snc_crm_for_re_0_property" element="NULL" name="x_snc_crm_for_re_0_property" parent="NULL" relationship="NULL" sys_domain="global" view="2b0ae1eea23b3d50adb25ad74c1adc8a">182ae5ee873b3d50a7b3ca26cebb35b6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-20 20:20:29</sys_created_on>
+            <sys_id>542ae5ee873b3d50a7b3ca26cebb35b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-20 20:20:29</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>comments</element>
+            <list_id display_value="x_snc_crm_for_re_0_property" element="NULL" name="x_snc_crm_for_re_0_property" parent="NULL" relationship="NULL" sys_domain="global" view="2b0ae1eea23b3d50adb25ad74c1adc8a">182ae5ee873b3d50a7b3ca26cebb35b6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-20 20:20:29</sys_created_on>
+            <sys_id>582ae5ee873b3d50a7b3ca26cebb35b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-20 20:20:29</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>county</element>
+            <list_id display_value="x_snc_crm_for_re_0_property" element="NULL" name="x_snc_crm_for_re_0_property" parent="NULL" relationship="NULL" sys_domain="global" view="2b0ae1eea23b3d50adb25ad74c1adc8a">182ae5ee873b3d50a7b3ca26cebb35b6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-20 20:20:29</sys_created_on>
+            <sys_id>5c2ae5ee873b3d50a7b3ca26cebb35b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-20 20:20:29</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>listing_type</element>
+            <list_id display_value="x_snc_crm_for_re_0_property" element="NULL" name="x_snc_crm_for_re_0_property" parent="NULL" relationship="NULL" sys_domain="global" view="2b0ae1eea23b3d50adb25ad74c1adc8a">182ae5ee873b3d50a7b3ca26cebb35b6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-20 20:20:29</sys_created_on>
+            <sys_id>502ae5ee873b3d50a7b3ca26cebb35b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-20 20:20:29</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>mls_id</element>
+            <list_id display_value="x_snc_crm_for_re_0_property" element="NULL" name="x_snc_crm_for_re_0_property" parent="NULL" relationship="NULL" sys_domain="global" view="2b0ae1eea23b3d50adb25ad74c1adc8a">182ae5ee873b3d50a7b3ca26cebb35b6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-20 20:20:29</sys_created_on>
+            <sys_id>542ae5ee873b3d50a7b3ca26cebb35b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-20 20:20:29</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>name</element>
+            <list_id display_value="x_snc_crm_for_re_0_property" element="NULL" name="x_snc_crm_for_re_0_property" parent="NULL" relationship="NULL" sys_domain="global" view="2b0ae1eea23b3d50adb25ad74c1adc8a">182ae5ee873b3d50a7b3ca26cebb35b6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-20 20:20:29</sys_created_on>
+            <sys_id>582ae5ee873b3d50a7b3ca26cebb35b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-20 20:20:29</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>property_tax_id</element>
+            <list_id display_value="x_snc_crm_for_re_0_property" element="NULL" name="x_snc_crm_for_re_0_property" parent="NULL" relationship="NULL" sys_domain="global" view="2b0ae1eea23b3d50adb25ad74c1adc8a">182ae5ee873b3d50a7b3ca26cebb35b6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-20 20:20:29</sys_created_on>
+            <sys_id>5c2ae5ee873b3d50a7b3ca26cebb35b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-20 20:20:29</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>state</element>
+            <list_id display_value="x_snc_crm_for_re_0_property" element="NULL" name="x_snc_crm_for_re_0_property" parent="NULL" relationship="NULL" sys_domain="global" view="2b0ae1eea23b3d50adb25ad74c1adc8a">182ae5ee873b3d50a7b3ca26cebb35b6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-20 20:20:29</sys_created_on>
+            <sys_id>502ae5ee873b3d50a7b3ca26cebb35b9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-20 20:20:29</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_by</element>
+            <list_id display_value="x_snc_crm_for_re_0_property" element="NULL" name="x_snc_crm_for_re_0_property" parent="NULL" relationship="NULL" sys_domain="global" view="2b0ae1eea23b3d50adb25ad74c1adc8a">182ae5ee873b3d50a7b3ca26cebb35b6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-20 20:20:29</sys_created_on>
+            <sys_id>542ae5ee873b3d50a7b3ca26cebb35b9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-20 20:20:29</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_snc_crm_for_re_0_property</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-20 20:20:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>182ae5ee873b3d50a7b3ca26cebb35b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_crm_for_re_0_property</sys_name>
+            <sys_package display_value="CRM for Real Estate" source="x_snc_crm_for_re_0">069c81ae87773d50a7b3ca26cebb35af</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CRM for Real Estate">069c81ae87773d50a7b3ca26cebb35af</sys_scope>
+            <sys_update_name>sys_ui_list_x_snc_crm_for_re_0_property_workspace-crm-for-real-estate-0</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-20 20:20:29</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace CRM for Real Estate 0" name="workspace-crm-for-real-estate-0">2b0ae1eea23b3d50adb25ad74c1adc8a</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

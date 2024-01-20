@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_dictionary">
+    <ais_dictionary action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <auto_refresh>24</auto_refresh>
+        <blocked_field/>
+        <case_sensitive>false</case_sensitive>
+        <data_source>x_snc_crm_for_re_0_property,x_snc_crm_for_re_0_task,x_snc_crm_for_re_0_contacts</data_source>
+        <derived>true</derived>
+        <field/>
+        <label>crm-for-real-estate Search Profile Default Spell Check Dictionary</label>
+        <last_derived>2024-01-20 20:22:29</last_derived>
+        <locale>en</locale>
+        <name>x_snc_crm_for_re_0_crm_for_real_estate_search_profile_default_spell_check_dictionary</name>
+        <publish_id>3536dd70-010d-4099-a7f6-78a1261958bd</publish_id>
+        <punctuation_sensitive>false</punctuation_sensitive>
+        <state>PUBLISHED</state>
+        <sys_class_name>ais_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-20 20:20:24</sys_created_on>
+        <sys_id>471aa5ee873b3d50a7b3ca26cebb3583</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>x_snc_crm_for_re_0_crm_for_real_estate_search_profile_default_spell_check_dictionary</sys_name>
+        <sys_package display_value="CRM for Real Estate" source="x_snc_crm_for_re_0">069c81ae87773d50a7b3ca26cebb35af</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CRM for Real Estate">069c81ae87773d50a7b3ca26cebb35af</sys_scope>
+        <sys_update_name>ais_dictionary_471aa5ee873b3d50a7b3ca26cebb3583</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-20 20:20:25</sys_updated_on>
+        <type>SPELLCHECK</type>
+    </ais_dictionary>
+</record_update>

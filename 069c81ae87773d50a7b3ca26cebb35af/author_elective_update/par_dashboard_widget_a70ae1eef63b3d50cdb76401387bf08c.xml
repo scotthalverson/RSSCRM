@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">ef0ae1ee5a3b3d5096b81392c705728c</canvas>
+        <component display_value="List - Simple">2b1c080881e05dc63b917044290b233f</component>
+        <component_props>{"table":"x_snc_crm_for_re_0_contacts","fixedQuery":"","listTitle":"My Work","columns":"","query":"active=true","groupByField":"","hideViewAll":false,"hideHighlightedValues":false,"highlightedValueConfigId":"","hideHighlightContent":false,"highlightContent":{"patterns":[],"color":""},"hideLinks":false,"wordWrap":false,"overrideWordWrapUserPref":false,"maxCharLimit":4000,"hideEmptyStateImage":false,"hidePersonalization":true,"hideDotwalk":true,"hideColumnReorder":true,"hideRowSelector":false,"hideColumnGrouping":true,"hideColumnResizing":true,"hideColumnFiltering":true,"hideColumnSorting":false,"hideHeader":false,"hideTitle":false,"hideTitleRowCount":false,"hideLastRefreshedText":false,"hideRefreshButton":false,"hideInlineEditing":true,"refreshRequested":"","noDebounce":""}</component_props>
+        <h>18</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-20 20:20:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>a70ae1eef63b3d50cdb76401387bf08c</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="CRM for Real Estate" source="x_snc_crm_for_re_0">069c81ae87773d50a7b3ca26cebb35af</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CRM for Real Estate">069c81ae87773d50a7b3ca26cebb35af</sys_scope>
+        <sys_update_name>par_dashboard_widget_a70ae1eef63b3d50cdb76401387bf08c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-20 21:20:20</sys_updated_on>
+        <visualization/>
+        <w>48</w>
+        <widget_props/>
+        <x>0</x>
+        <y>9</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CRM for Real Estate">069c81ae87773d50a7b3ca26cebb35af</application>
+        <file_path/>
+        <instance_id>db7ab65ddbf1551c07072f17d49619a7</instance_id>
+        <instance_name>empshalverson1</instance_name>
+        <name>par_dashboard_widget_a70ae1eef63b3d50cdb76401387bf08c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">ef0ae1ee5a3b3d5096b81392c705728c</canvas><component display_value="List - Simple">2b1c080881e05dc63b917044290b233f</component><component_props>{"table":"x_snc_crm_for_re_0_contacts","fixedQuery":"","listTitle":"My Work","columns":"","query":"active=true","groupByField":"","hideViewAll":false,"hideHighlightedValues":false,"highlightedValueConfigId":"","hideHighlightContent":false,"highlightContent":{"patterns":[],"color":""},"hideLinks":false,"wordWrap":false,"overrideWordWrapUserPref":false,"maxCharLimit":4000,"hideEmptyStateImage":false,"hidePersonalization":true,"hideDotwalk":true,"hideColumnReorder":true,"hideRowSelector":false,"hideColumnGrouping":true,"hideColumnResizing":true,"hideColumnFiltering":true,"hideColumnSorting":false,"hideHeader":false,"hideTitle":false,"hideTitleRowCount":false,"hideLastRefreshedText":false,"hideRefreshButton":false,"hideInlineEditing":true,"refreshRequested":"","noDebounce":""}</component_props><h>18</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-01-20 20:20:12</sys_created_on><sys_domain>global</sys_domain><sys_id>a70ae1eef63b3d50cdb76401387bf08c</sys_id><sys_mod_count>2</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="CRM for Real Estate" source="x_snc_crm_for_re_0">069c81ae87773d50a7b3ca26cebb35af</sys_package><sys_policy/><sys_scope display_value="CRM for Real Estate">069c81ae87773d50a7b3ca26cebb35af</sys_scope><sys_update_name>par_dashboard_widget_a70ae1eef63b3d50cdb76401387bf08c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-01-20 21:20:20</sys_updated_on><visualization/><w>48</w><widget_props/><x>0</x><y>9</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>1495331302</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>65a511aec3bf3d50d82af663e401318e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-20 21:20:20</sys_created_on>
+        <sys_id>0dd7796687bb3d50a7b3ca26cebb3578</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18d28bef9400000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-20 21:20:20</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>41d779663abb3d501bf8e049920dc878</update_guid>
+        <update_guid_history>41d779663abb3d501bf8e049920dc878:1495331302,391a65ee4d3b3d5037b08909961c2a25:1900203040,b11a65ee963b3d500615eddb7936dd24:2029051462</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">22c875e687bb3d50a7b3ca26cebb3546</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-20 21:24:32</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>0bd644e781154ed08b09e4791505c859</sys_id>
+        <sys_metadata>a70ae1eef63b3d50cdb76401387bf08c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="CRM for Real Estate" source="x_snc_crm_for_re_0">069c81ae87773d50a7b3ca26cebb35af</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CRM for Real Estate">069c81ae87773d50a7b3ca26cebb35af</sys_scope>
+        <sys_scope_delete display_value="">45a20dc70dad45088bc8aec30de4e710</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_a70ae1eef63b3d50cdb76401387bf08c</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_a70ae1eef63b3d50cdb76401387bf08c">0dd7796687bb3d50a7b3ca26cebb3578</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-20 21:24:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

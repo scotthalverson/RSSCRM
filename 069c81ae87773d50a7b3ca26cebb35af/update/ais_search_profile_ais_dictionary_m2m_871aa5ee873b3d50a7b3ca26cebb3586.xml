@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_dictionary_m2m">
+    <ais_search_profile_ais_dictionary_m2m action="INSERT_OR_UPDATE">
+        <dictionary display_value="x_snc_crm_for_re_0_crm_for_real_estate_search_profile_default_spell_check_dictionary">471aa5ee873b3d50a7b3ca26cebb3583</dictionary>
+        <dictionary_reference_qualifier/>
+        <marked_for_deletion>false</marked_for_deletion>
+        <profile display_value="crm-for-real-estate Search Profile">630ae1eece3b3d50908ff1a910f33b94</profile>
+        <sys_class_name>ais_search_profile_ais_dictionary_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-20 20:20:24</sys_created_on>
+        <sys_id>871aa5ee873b3d50a7b3ca26cebb3586</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_crm_for_re_0_crm_for_real_estate_search_profile_default_spell_check_dictionary.crm-for-real-estate Search Profile</sys_name>
+        <sys_package display_value="CRM for Real Estate" source="x_snc_crm_for_re_0">069c81ae87773d50a7b3ca26cebb35af</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CRM for Real Estate">069c81ae87773d50a7b3ca26cebb35af</sys_scope>
+        <sys_update_name>ais_search_profile_ais_dictionary_m2m_871aa5ee873b3d50a7b3ca26cebb3586</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-20 20:20:24</sys_updated_on>
+    </ais_search_profile_ais_dictionary_m2m>
+</record_update>

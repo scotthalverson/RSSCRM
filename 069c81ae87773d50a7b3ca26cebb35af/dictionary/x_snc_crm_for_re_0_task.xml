@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="c3b6296a873b3d50a7b3ca26cebb3584" extends="task" label="Task" max_length="40" name="x_snc_crm_for_re_0_task" type="collection">
+        <element label="Due date" max_length="255" name="due_dat0" type="glide_date"/>
+        <element label="Owner" max_length="32" name="owner" reference="x_snc_crm_for_re_0_contacts" type="reference"/>
+        <element label="Property" max_length="32" name="property" reference="x_snc_crm_for_re_0_property" type="reference"/>
+    </element>
+</database>

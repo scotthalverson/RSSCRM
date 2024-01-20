@@ -1,3 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="eea8956287f73d50a7b3ca26cebb3597" label="Property" max_length="40" name="x_snc_crm_for_re_0_property" type="collection"/>
+    <element db_object_id="eea8956287f73d50a7b3ca26cebb3597" label="Property" max_length="40" name="x_snc_crm_for_re_0_property" type="collection">
+        <element choice="1" label="Status" mandatory="true" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Potential" sequence="0" value="Potential"/>
+                <element inactive_on_update="false" label="Listed" sequence="1" value="Listed"/>
+                <element inactive_on_update="false" label="Sold" sequence="2" value="Sold"/>
+                <element inactive_on_update="false" label="Expired" sequence="3" value="Expired"/>
+                <element inactive_on_update="false" label="Cancelled" sequence="4" value="Cancelled"/>
+            </choice>
+        </element>
+    </element>
 </database>
