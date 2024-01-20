@@ -1,0 +1,2 @@
+# RSSCRM
+Really Simple CRM
